@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1{fill:#212121}
+      .cls-2{fill:#212121;fill-rule:evenodd}
+    </style>
+  </defs>
+  <title>pointless-logo.svg</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path d="M18.5 5.5 L18.5 5.5 C20.985 5.5 23 7.515 23 10 L23 54 C23 56.485 20.985 58.5 18.5 58.5 L18.5 58.5 C16.015 58.5 14 56.485 14 54 L14 10 C14 7.515 16.015 5.5 18.5 5.5 Z" class="cls-1"/>
+    <path d="M36 5.5 C25.783 5.5 17.5 13.783 17.5 24 C17.5 34.217 25.783 42.5 36 42.5 C46.217 42.5 54.5 34.217 54.5 24 C54.5 13.783 46.217 5.5 36 5.5 Z M36 14.5 C41.247 14.5 45.5 18.753 45.5 24 C45.5 29.247 41.247 33.5 36 33.5 C30.753 33.5 26.5 29.247 26.5 24 C26.5 18.753 30.753 14.5 36 14.5 Z" class="cls-2"/>
+  </g>
+</svg>
